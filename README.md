@@ -11,15 +11,15 @@ This is a classic Snake game implemented using Python's Tkinter library. The obj
 ## 🚀 How to Run the Game
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/farukh-javed/tkinter-snake-game.git
+   git clone https://github.com/farukh-javed/Tkinter-Snake-Game.git
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd tkinter-snake-game
+   cd Tkinter-Snake-Game
    ```
 3. **Run the Game**:
    ```bash
-   python snake_game.py
+   python app.py
    ```
 
 ## 🎮 How to Play
@@ -31,5 +31,5 @@ This is a classic Snake game implemented using Python's Tkinter library. The obj
 - The game will track your score and update the high score automatically.
 
 ## 📂 Files
-- **`snake_game.py`**: Main script to run the Snake game.
+- **`app.py`**: Main script to run the Snake game.
 - **`scores.txt`**: Stores the high score.
